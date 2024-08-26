@@ -6,8 +6,7 @@
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
- ![GitHub Org's stars](https://img.shields.io/github/stars/unrealmy?style=social)
- 
+  
 <h1 align="center"> Descripción del Proyecto. </h1>
  
 Primero ingresamos un Texto en minusculas, sin caracteres especiales y lo "encriptamos".
